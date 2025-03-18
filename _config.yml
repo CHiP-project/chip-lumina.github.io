@@ -1,18 +1,14 @@
 # Site settings
-title: "CMS.633/833"
-full_name: "CMS.633/833 – Digital Humanities: Topics, Techniques, and Technologies"
-name: "Digital Humanities: Topics, Techniques, and Technologies"
+title: "CHiP"
+full_name: "Chip - Lumina Project"
+name: "Lumina Project"
 email: fendt@mit.edu
 description: > # this means to ignore newlines until "baseurl:"
-  This is the collaborative site for CMS.633/833, a Digital
-  Humanities course at MIT taught by Kurt Fendt. Students will
-  use this space to keep track of course resources and example
-  projects, as well as to post updates as their own design
-  projects take shape.
+  This is the collaborative site for CHiP, a cool history project.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://cms633.github.io/" # the base hostname & protocol for your site
-twitter_username: activearchives
-github_username: cms633
+url: "http://chip-lumina.github.io/" # the base hostname & protocol for your site
+twitter_username: chip-lumina
+github_username: repertoire
 permalink: none
 
 # Build settings
@@ -20,8 +16,8 @@ markdown: kramdown
 
 prose:
   rooturl: '_posts'
-  siteurl: "http://cms633.github.io/"
-  relativeLinks: 'http://cms633.github.io/links.jsonp'
+  siteurl: "http://chip-lumina.github.io/"
+  relativeLinks: 'http://chip-lumina.github.io/links.jsonp'
   media: 'assets'
   metadata:
     _posts:
