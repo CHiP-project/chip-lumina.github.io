@@ -1,2 +1,2 @@
-# chip.github.io
-Initial Website for the CHiP Project
+# chip-lumina.github.io
+Initial Website for the CHiP Lumina Project
