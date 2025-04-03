@@ -10,6 +10,7 @@ url: "https://chip-project.github.io/chip-lumina.github.io/" # the base hostname
 twitter_username: chip-lumina
 github_username: fendt
 permalink: none
+theme: jekyll-theme-cayman
 
 # Build settings
 markdown: kramdown
