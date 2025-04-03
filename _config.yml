@@ -6,9 +6,9 @@ email: fendt@mit.edu
 description: > # this means to ignore newlines until "baseurl:"
   This is the collaborative site for CHiP, a cool history project.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://chip-lumina.github.io/" # the base hostname & protocol for your site
+url: "https://chip-project.github.io/chip-lumina.github.io/" # the base hostname & protocol for your site
 twitter_username: chip-lumina
-github_username: repertoire
+github_username: fendt
 permalink: none
 
 # Build settings
@@ -16,8 +16,8 @@ markdown: kramdown
 
 prose:
   rooturl: '_posts'
-  siteurl: "http://chip-lumina.github.io/"
-  relativeLinks: 'http://chip-lumina.github.io/links.jsonp'
+  siteurl: "https://chip-project.github.io/chip-lumina.github.io/"
+  relativeLinks: 'https://chip-project.github.io/chip-lumina.github.io/links.jsonp'
   media: 'assets'
   metadata:
     _posts:
